@@ -1,0 +1,87 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    font-family: cursive;
+    background-color: darkblue;
+    margin: auto;
+    text-align: center;
+    font-size: 90px;
+    color: darkturquoise;
+    text-shadow: 5px 15px black;
+}
+h3{
+    font-size: 40px;
+    font-family: fantasy;
+    background: cornsilk;
+    margin: auto;
+    color: darkmagenta;
+}
+p{
+    color: black;
+    font-family: serif;
+    font-size: 30px;
+    margin: auto;
+
+}
+.FABRICIO img{
+    height: auto;
+    margin: auto;
+    border: rgb(0, 255, 42);
+    border-radius: 90px;
+    width: auto;
+    
+}
+table{
+    font-size: 45px; 
+    color: white;
+     background: rgb(33, 235, 60);
+     border:rgba(0, 225, 30, 0.76) solid ;
+ }
+th{
+    border: rgb(22, 218, 136) solid;
+    background: rgb(7, 175, 167);
+}
+td{
+    border: rgb(230, 255, 6) solid;
+}
+ul{
+    font-size: 30px;
+    margin: auto;
+    height: auto;
+    background-color: rgb(0, 138, 69);
+    color: cornsilk;
+    font-family: fantasy;
+}
+ol{
+    font-size: 40px;
+    margin: auto;
+    height: auto;
+    background-color: rgb(2, 61, 255);
+    color: rgb(0, 0, 0);
+    font-family: unset;
+
+}
+form{
+    width: 50%;
+    border: 3px solid rgb(255, 255, 255);
+    margin: auto;
+    padding: 20px;
+}
+label{
+    font-size: 25px;
+    display:block;
+    input, textarea{
+        margin-bottom:20px;
+        width:100%;
+        border:1px solid red;
+}
+button{
+    background: rgb(0, 0, 0);
+    width: 200%;
+    border: 2px solid rgb(49, 241, 225);
+
+}
+input:focus{
+    border: 2px solid red;
+}
